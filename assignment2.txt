@@ -1,1 +1,2 @@
  hii its fun to learn git 
+ adding second line to my assignment2.txt below previous line
